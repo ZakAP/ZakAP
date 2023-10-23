@@ -1,4 +1,4 @@
-### Me chamo Zak. Sou um Front-end Developer 💻
+### Front-end Developer com foco em ambiente mobile 💻
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zak-almeida-phillips-5a789366/)
 
@@ -15,19 +15,18 @@
   <img aling="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img aling="center" alt="styled components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
   <img aling="center" alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<br/>
+  <img aling="center" alt="React Native" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img aling="center" alt="React Native" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img aling="center" alt="React Native" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  
 </div>
 <br/>
-
- Gosto muito do mundo da programação e estou muito animado para aprender cada vez mais.
 
 ## Contatos:
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)  <br/>
 (71) 99174-5620
 <br/>
 <br/>
-![Microsoft Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)  <br/>
- phillipszak@hotmail.com
- <br/>
- <br/>
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  <br/>
- zak.a.phillips@gmail.com
+ zakphillips.dw@gmail.com
